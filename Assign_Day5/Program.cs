@@ -8,5 +8,5 @@ Console.WriteLine("Day 5 Assignment");
 //Assign_Day5.Class6.VowelConsonant();
 //Assign_Day5.Class7.Power();
 //Assign_Day5.Class8.MaxNumber();
-Assign_Day5.Class9.PrimeFactorization();
-//Assign_Day5.Class10.QuoRem();
+//Assign_Day5.Class9.PrimeFactorization();
+Assign_Day5.Class10.QuoRem();
